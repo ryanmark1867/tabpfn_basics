@@ -3,3 +3,4 @@ __pycache__
 git_setup.ipynb
 git_push.ipynb
 *.csv
+*.pkl
