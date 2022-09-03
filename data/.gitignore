@@ -1,0 +1,5 @@
+__pycache__
+.ipynb_checkpoints
+git_setup.ipynb
+git_push.ipynb
+*.csv
