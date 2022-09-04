@@ -11,7 +11,7 @@ general: # overall parameters
    textmax: 50
    pickled_data_file: '20142018_0930.pkl'
    pickled_dataframe: 'AB_NYC_2019_output_sep3_2022.pkl'
-   modifier: 'sep3_2022'
+   modifier: 'sep4_2022'
    targetthresh: 6.0 # use as boundary between delay and no delay
    targetcontinuous: False # switch to determine whether target is continuous
    target_col: 'price'
